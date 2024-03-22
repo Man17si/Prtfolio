@@ -170,23 +170,23 @@ body {
 	background-image: Linear-gradient(90deg,#e52e71,#ff8a00);
 }
 .aboutimg{
-	height: 695px;
-	width: 50%;
-	padding-top: 110px;
+	height: 695px; //695
+	width: 50%; //50
+	padding-top: 110px; //110
 
 }
 .aboutinfo-div{
   position: relative;
-  top: 120px;
-	height: 695px;
+  top: 120px; //120
+	height:695px; //695
 	width: 50%;
 /*	display: flex;*/
 	justify-content: center;
 }
 .aboutinfo{
   position: relative;
-  top: 100px;
-  right: 100px;
+  top: 10px;
+  right: 70px;
 	color: white;
 	font-size: 23px;
 	text-indent: 20%;
@@ -521,8 +521,7 @@ body {
   .ag-format-container {
     width: 960px;
   }
-/*                  *Below code of Animated Skill Section is modified by pranay with own knowledge */*/
-/*                  *not copied .... Copied Code converted into personal required structure by pranay*/*/
+/*                
 }
 .ag-format-container{
   width: 80%;
@@ -579,11 +578,7 @@ body {
   width: 500px;
   left: 80px;
 }                                      
-                         /*Copied Code converted into personal required structure by pranay ended here*/
-                                    /*.Skills CSS Section Own made Start here*/
-
-                       /*Khalcha code pn skills section chach ahe to pranay ni banavlay but varti 
-                       animation wala code jast changla ahe mhnun to thevlay ha comment out kelay                                                           */
+                                                                                   */
 /*.tbl-div{
 	display: flex;
 	justify-content: center;
@@ -627,8 +622,7 @@ body {
   box-shadow: inset 0 -3.25em 0 0 var(--hover);
 }
 */
-                       /*Khalcha code pn skills section chach ahe to pranay ni banavlay but varti 
-                        animation wala code jast changla ahe mhnun to thevlay ha comment out kelay END....*/
+                       
 
                                      /*Project Section Starts Here*/
 .projects-section{
@@ -645,11 +639,11 @@ body {
 }
 .projecthead, .all-projects{
   position: relative;
-  top: 50px;
+  top: 5px;
 }
 .all-projects{
-  height: 700px;
-  margin-top: 40px;
+  height: 700px;  
+  margin-top: 5px;  //40
 }
 .card{
   background: transparent;
@@ -665,9 +659,9 @@ body {
 }
 .card-img-top{
   position: relative;
-  height: 200px;
-  width: 200px;
-  top: 10px;
+  height: 100px; //200
+  width: 100px; //200
+  top: 10px; //10
   background: rgba(0,0,0,.5);
 } 
 .card-deck{
